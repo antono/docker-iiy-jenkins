@@ -1,3 +1,6 @@
 git-client
+git
 ssh-slaves
 docker-plugin
+gitlab-hook
+jclouds-jenkins

@@ -1,2 +1,3 @@
 git-client
 ssh-slaves
+docker-plugin
